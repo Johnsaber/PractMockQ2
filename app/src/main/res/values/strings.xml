@@ -1,0 +1,9 @@
+<resources>
+   <string name="app_Name">PractTestMockQ2</string>
+    <string-array name="Data">
+        <item>Call</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Whatsapp</item>
+    </string-array>
+</resources>
